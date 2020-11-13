@@ -1,1 +1,1 @@
-# Gatsby-learn-Examples
+#Приклади виконанні Гетсбі
